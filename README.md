@@ -18,3 +18,9 @@ This project is part of my Part One for my programming POE.
 * **Phone Number Validation:** Verfies that the cellphone number includes the South African International code (+27) and also that number is the correct length.
 * **Automated Testing:** Used JUnit 5 to test the validation logic, ensure that the methods work as expected.
 
+## How To Run
+1. **Download** the ZIP Folder, then unzip the files.
+2. **Open** Apache NetBeans and open the project via **File** tab.
+3. **Clean and Build** the project.
+4. **Run** the file ny clicking on the green **play** button.
+5. **Test** by clicking on the project and selecting **Test**.
