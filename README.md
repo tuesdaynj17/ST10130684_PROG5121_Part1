@@ -7,7 +7,7 @@
   
 ---
 ##Description
-This project is a Java-based application coded to handle a users registration and login details.
+####This project is a Java-based application coded to handle a users registration and login details.
 The project focuses on ensuring that the user inserts the correct information, that must meet certain conditions.
 This project is part of my Part One for my programming POE.
 
@@ -18,7 +18,7 @@ This project is part of my Part One for my programming POE.
 * **Automated Testing:** Used JUnit 5 to test the validation logic, ensure that the methods work as expected.
 
 ##File Navigation
-Inside the zip folder ChatAppPart1 there are three files namely, **Project**, **Screenshot**, **Video Explanation**.
+####Inside the zip folder ChatAppPart1 there are three files namely, **Project**, **Screenshot**, **Video Explanation**.
 * **Project:** Is where you will find the project codes.
 * **Screenshot:** Is where you will find screenshot of the code successfully built.
 * **Video Explanation:** Is where you find a detail video explanation how the code was coded and runs.
